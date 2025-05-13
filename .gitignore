@@ -1,2 +1,3 @@
 bin/client
 .DS_Store
+bin/server
